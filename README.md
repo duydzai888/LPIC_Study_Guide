@@ -10,4 +10,6 @@
 4. [Using Regular Expressions](./Chapter_1/4.Using_Regular_Expressions.md)
 5. [Using Streams, Redirection, and Pipes](./Chapter_1/5.Using_Streams_Redirection_and_Pipes.md)
 
-### [Chap2. ]
+### [Chap2. Managing Software and Processes](./Chapter_2)
+
+1. [Using RPM](./Chapter_2/1.Using_RPM.md)

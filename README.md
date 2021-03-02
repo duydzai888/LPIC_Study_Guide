@@ -13,3 +13,6 @@
 ### [Chap2. Managing Software and Processes](./Chapter_2)
 
 1. [Using RPM](./Chapter_2/1.Using_RPM.md)
+2. [Using Debian Packages](./Chapter_2/2.Using_debian_packages.md)
+3. [Managing Shared Libraries](./Chapter_2/3.Managing_Shared_Libraries.md)
+4. [Managing Processes](./Chapter_2/4.Managing_Processes.md)

@@ -10,9 +10,16 @@
 4. [Using Regular Expressions](./Chapter_1/4.Using_Regular_Expressions.md)
 5. [Using Streams, Redirection, and Pipes](./Chapter_1/5.Using_Streams_Redirection_and_Pipes.md)
 
-### [Chap2. Managing Software and Processes](./Chapter_2)
+### [Chap 2. Managing Software and Processes](./Chapter_2)
 
 1. [Using RPM](./Chapter_2/1.Using_RPM.md)
 2. [Using Debian Packages](./Chapter_2/2.Using_debian_packages.md)
 3. [Managing Shared Libraries](./Chapter_2/3.Managing_Shared_Libraries.md)
 4. [Managing Processes](./Chapter_2/4.Managing_Processes.md)
+
+### [Chap 3. Configuring Hardware](./Chapter_3)
+
+1. [Configuring	the	Firmware and Core Hardware](./Chapter_3/1.Configuring_Hardware.md)
+2. [Storage](./Chapter_3/2.Storage.md)
+3. [Partitioning Tools](./Chapter_3/3.Partitioning_Tools.md)
+4. []

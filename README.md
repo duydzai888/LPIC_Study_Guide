@@ -22,4 +22,8 @@
 1. [Configuring	the	Firmware and Core Hardware](./Chapter_3/1.Configuring_Hardware.md)
 2. [Storage](./Chapter_3/2.Storage.md)
 3. [Partitioning Tools](./Chapter_3/3.Partitioning_Tools.md)
-4. []
+4. [Filesystems](./Chapter_3/4.Filesystems.md)
+
+### [Chap 4. Managing Files](./Chapter_4)
+
+1. [Using File Management Commands](./Chapter_4/1.Using_File_Management_Commands.md)

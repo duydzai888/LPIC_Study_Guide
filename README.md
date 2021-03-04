@@ -28,4 +28,12 @@
 
 1. [Using File Management Commands](./Chapter_4/1.Using_File_Management_Commands.md)
 2. [Managing File	Ownership](./Chapter_4/2.Managing_File_Ownership.md)
-3. [Controlling Access to Files](3.Controlling_Access_to_Files.md)
+3. [Controlling Access to Files](./Chapter_4/3.Controlling_Access_to_Files.md)
+4. [Locate File](./Chapter_4/4.Locating_Files.md)
+
+### [Chap 5. Booting, Initializing, and Virtualizing Linux](./Chapter_5)
+
+1. [Understanding t0he Boot Process](./Chapter_5/1.Understanding_the_Boot_Process.md)
+2. [Looking at Firmware](./Chapter_5/2.Looking_at_Firmware.md)
+3. [The Linux Booting Process](./Chapter_5/3.The_Linux_Booting_Process.md)
+

@@ -36,4 +36,12 @@
 1. [Understanding t0he Boot Process](./Chapter_5/1.Understanding_the_Boot_Process.md)
 2. [Looking at Firmware](./Chapter_5/2.Looking_at_Firmware.md)
 3. [The Linux Booting Process](./Chapter_5/3.The_Linux_Booting_Process.md)
+4. [Using the systemd Initialization Process](./Chapter_5/4.Using_the_systemd_Initialization_Process.md)
+5. [Virtualizing Linux](./Chapter_5/5.Virtualizing_Linux.md)
+
+### [Chap 6. ](./Chapter_6)
+
+### [Chap 7. Administering the System](./Chapter_7)
+
+1. [Managing Users and Groups](./Chapter_7/1.Managing_Users_and_Groups.md)
 

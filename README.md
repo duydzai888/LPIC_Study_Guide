@@ -45,3 +45,4 @@
 
 1. [Managing Users and Groups](./Chapter_7/1.Managing_Users_and_Groups.md)
 
+2. [Managing Email](./Chapter_7/2.Managing_Email.md)

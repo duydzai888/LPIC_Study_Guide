@@ -53,3 +53,8 @@
 2. [Configuring Network Features](./Chapter_8/2.Configuring_Network_Features.md)
 3. [Basic Network Troubleshooting](./Chapter_8/3.Basic_Network_Troubleshooting.md)
 4. [Advanced Network Troubleshooting](./Chapter_8/4.Advanced_Network_Troubleshooting.md)
+
+### [Chap 10. Securing Your System](./Chapter_10)
+
+1. [Administering Network Security](./Chapter_10/1.Administering_Network_Security.md)
+2. [Administering Local Security](./Chapter_10/2.Administering_Local_Security.md)

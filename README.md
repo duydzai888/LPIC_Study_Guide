@@ -44,5 +44,12 @@
 ### [Chap 7. Administering the System](./Chapter_7)
 
 1. [Managing Users and Groups](./Chapter_7/1.Managing_Users_and_Groups.md)
-
 2. [Managing Email](./Chapter_7/2.Managing_Email.md)
+3. [Using Log and Journal Files](./Chapter_7/3.Using_Log_and_Journal_Files.md)
+
+### [Chap 8. Configuring Basic Networking](./Chapter_8)
+
+1. [Networking Basics](./Chapter_8/1.Networking_Basics.md)
+2. [Configuring Network Features](./Chapter_8/2.Configuring_Network_Features.md)
+3. [Basic Network Troubleshooting](./Chapter_8/3.Basic_Network_Troubleshooting.md)
+4. [Advanced Network Troubleshooting](./Chapter_8/4.Advanced_Network_Troubleshooting.md)

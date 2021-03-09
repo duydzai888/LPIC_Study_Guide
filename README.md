@@ -54,7 +54,21 @@
 3. [Basic Network Troubleshooting](./Chapter_8/3.Basic_Network_Troubleshooting.md)
 4. [Advanced Network Troubleshooting](./Chapter_8/4.Advanced_Network_Troubleshooting.md)
 
+### [Chap 9. Writing Scripts](./Chapter_9)
+
+1. [Shell Variables](./Chapter_9/1.1.Shell_Variables.md)
+2. [The Basics of Shell Scripting](./Chapter_9/2.The_Basics_of_Shell_Scripting.md)
+3. [Advanced Shell Scripting](./Chapter_9/3.Advanced_Shell_Scripting.md)
+4. [Writing Script Programs](./Chapter_9/4.Writing_Script_Programs.md)
+5. [Running Scripts](./Chapter_9/5.Running_Scripts.md)
+6. [Sending Signals](./Chapter_9/6.Sending_Signals.md)
+7. [Job Control](./Chapter_9/7.Job_Control.md)
+8. [Running Like Clockwork](./Chapter_9/8.Running_Like_Clockwork.md) 
+
 ### [Chap 10. Securing Your System](./Chapter_10)
 
 1. [Administering Network Security](./Chapter_10/1.Administering_Network_Security.md)
 2. [Administering Local Security](./Chapter_10/2.Administering_Local_Security.md)
+3. [Exploring Cryptography Concepts](./chapter_10/3.Exploring_Cryptography_Concepts.md)
+4. [Looking at SSH](./chapter_10/4.Looking_at_SSH.md)
+

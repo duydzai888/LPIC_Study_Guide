@@ -69,6 +69,6 @@
 
 1. [Administering Network Security](./Chapter_10/1.Administering_Network_Security.md)
 2. [Administering Local Security](./Chapter_10/2.Administering_Local_Security.md)
-3. [Exploring Cryptography Concepts](./chapter_10/3.Exploring_Cryptography_Concepts.md)
-4. [Looking at SSH](./chapter_10/4.Looking_at_SSH.md)
+3. [Exploring Cryptography Concepts](./Chapter_10/3.Exploring_Cryptography_Concepts.md)
+4. [Looking at SSH](./Chapter_10/4.Looking_at_SSH.md)
 

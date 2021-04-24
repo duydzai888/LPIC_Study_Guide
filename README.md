@@ -56,7 +56,7 @@
 
 ### [Chap 9. Writing Scripts](./Chapter_9)
 
-1. [Shell Variables](./Chapter_9/1.1.Shell_Variables.md)
+1. [Shell Variables](./Chapter_9/1.Shell_Variables.md)
 2. [The Basics of Shell Scripting](./Chapter_9/2.The_Basics_of_Shell_Scripting.md)
 3. [Advanced Shell Scripting](./Chapter_9/3.Advanced_Shell_Scripting.md)
 4. [Writing Script Programs](./Chapter_9/4.Writing_Script_Programs.md)
